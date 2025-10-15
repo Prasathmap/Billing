@@ -5,7 +5,7 @@ import Register from "./pages/auth/Register";
 import MainLayout from "./components/MainLayout";
 import Dashboard from "./pages/Dashboard";
 import Category from "./pages/Catalogue/Category";
-import SubCategory from "./pages/Catalogue/Subcategory";
+import SubCategory from "./pages/Catalogue/SubCategory";
 import Brand from "./pages/Catalogue/Brand";
 import Tax from "./pages/Catalogue/Tax";
 import Unit from "./pages/Catalogue/Unit"
