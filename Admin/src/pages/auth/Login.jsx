@@ -175,7 +175,7 @@ const Login = () => {
             
             <div style={{ textAlign: 'center', marginTop: 20 }}>
               <Text style={{ color: '#fff', fontSize: 14.5 }}>
-                Create Account? <a href="https://billing-gamma-orcin.vercel.app/register" style={{ color: '#fff', fontWeight: 600 }}>Sign UP</a>
+                Create Account? <a href="https://adminbilling.vercel.app/register" style={{ color: '#fff', fontWeight: 600 }}>Sign UP</a>
               </Text>
             </div>
           </Form>
